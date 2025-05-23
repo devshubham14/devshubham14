@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/shubham-pandey">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineer;Passionate+about+AI+and+Web+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineer;Passionate+about+AI+and+Web+Tech" alt="Typing SVG" />
   </a>
 </p>
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubham-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-pandey" />
@@ -59,7 +58,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="sp24042005@gmail.com" target="blank">
+  <a href="mailto:sp24042005@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/shubham-pandey-775408360/" target="blank">
@@ -69,14 +68,5 @@
 
 ---
 
-### 🧮 GitHub Contribution Graph:
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shubham-pandey&theme=dracula" alt="Shubham's GitHub Activity Graph" />
-</p>
-
-  <!-- You can add more links like LinkedIn, Instagram, etc. here -->
-</p>
-
----
 
