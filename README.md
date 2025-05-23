@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://github.com/shubham-pandey">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineer;Passionate+about+AI+and+Web+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Software+Engineer;Passionate+about+AI+and+Web+Tech" alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubham-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-pandey" />
