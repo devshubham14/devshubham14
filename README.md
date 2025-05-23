@@ -58,7 +58,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="mailto:sp24042005@gmail.com" target="blank">
+  <a href="sp24042005@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/shubham-pandey-775408360/" target="blank">
