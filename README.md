@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Frontend Development, JavaScript, Python, AI**
 
-- 📫 Reach me at: **sp24042005@gmail.com**
+- 📫 Reach me at: **2008sp1403@gmail.com**
 
 - ⚡ Fun fact: *I build bots that might be smarter than me!*
 
